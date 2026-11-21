@@ -7,4 +7,3 @@ for i in str:
 
 print(rev_str)
 
-for i in range(-1,0)
